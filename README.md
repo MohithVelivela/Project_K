@@ -1,1 +1,1 @@
-# SOI_2024_DevShelf
+# A Campus Navigation system of IIT Dharwad
