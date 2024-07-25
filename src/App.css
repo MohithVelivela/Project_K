@@ -1,0 +1,10 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  margin-left: 260px; /* Adjust according to the width of your sidebar */
+  padding: 90px 20px 20px 20px; /* Adjust top padding to be equal or more than the header height */
+  flex: 1;
+}

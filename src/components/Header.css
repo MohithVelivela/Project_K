@@ -1,0 +1,26 @@
+.header {
+  width: 100%;
+  background-color:white;
+  color: #89288f;
+  padding: 10px 20px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  height: 80px; /* Adjust the height as needed */
+}
+
+.logo {
+  width: 400px; /* Image width */
+  height: auto;
+  margin-right: 20px; /* Space between logo and text */
+}
+
+.header h1 {
+  margin: 0;
+  align-self: center;
+  font-size: 40px;
+}

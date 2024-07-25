@@ -1,0 +1,19 @@
+.about {
+  margin-left: 260px;
+  padding: 40px;
+  background-color: #dfe6e9;
+  color: #2d3436;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.about h1 {
+  color: #89288f;
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 1.2em;
+  color: #2d3436;
+}
